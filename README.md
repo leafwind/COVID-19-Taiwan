@@ -1,5 +1,3 @@
-# This repository is nothing but only correct Taiwan's country automatically
-
 # 2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE
 
 
