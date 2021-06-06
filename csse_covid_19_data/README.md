@@ -333,6 +333,7 @@ Date: Location | Change | Reason/Other notes | Source
 * May 13, 2021: Alabama, US | Inclusion of 306 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 14, 2021: Alabama, US | Inclusion of 4,877 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 15, 2021: Alabama, US | Inclusion of 1,235 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
+* May 17, 2021: Alaska, US | 10 of 11 daily deaths identified through death certificate review | [Source](https://alaska-native-news.com/covid-19-daily-summary-may-17-2021/55811/)
 * May 18, 2021: United Kingdom | Reduction of 4,776 false positive lateral flow tests | [Source](https://coronavirus.data.gov.uk/details/whats-new) (Note for May 18)
 * May 18, 2021: Missouri, US | Weekly death certificate review resulted in a large spike in deaths, particularly in rural counties | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4099)
 * May 19, 2021: New Castle County, Delaware, US | Large spike in cases due to reporting delays with multiple laboratories | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4121)
@@ -384,14 +385,15 @@ United States
 * Alaska: Providing data Monday-Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
 * District of Columbia: Providing data Monday-Friday.
-* Florida: Did not update on weekend for October 10-11.
+* Florida: Providing data once per week (Fridays).
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
-* Kansas: Provifing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
+* Kansas: Providing data Monday, Wednesdays, and Fridays. No data for the weekend of August 22-23.
 * Louisiana: Providing data Monday-Friday.
+* Montana: Providing data Monday-Friday.
 * Michigan: Providing data Monday-Saturday. No case data provided for August 21.
 * Mississippi: Providing data Monday-Friday.
-* Nebraska: Providing data Monday-Friday.
+* Nebraska: Providing data Monday-Friday. No county-level data available at this time.
 * Nevada: Providing data Monday-Friday.
 * New Mexico: Providing data Monday-Friday.
 * North Carolina: Providing data Monday-Friday.
@@ -400,8 +402,10 @@ United States
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Dakota: Providing data Monday-Friday.
 * Tennessee: Providing data Monday-Friday.
+* Vermont: Providing data Monday-Friday.
 * Washington: Did not update October 10-12 due to data entry issue. As of December 20, only updating Monday-Saturday.
 * West Virginia: Providing data Monday-Friday.
+* Wisconsin: Providing data Monday-Friday.
 * Wyoming: Providing data Monday-Friday.
 
 
